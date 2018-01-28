@@ -1,0 +1,1 @@
+web: gunicorn farji.wsgi --log-file -
